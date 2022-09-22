@@ -2,7 +2,7 @@
 
 This is the project built for the Coderhouse's Data Science course final exam.
 
-It consists in the development of several supervised learning models for credit risk assesment.
+It consists in the development of several supervised machine learning models for credit risk assesment.
 
 The dataset was downloaded from [Kaggle](https://www.kaggle.com/).
 
